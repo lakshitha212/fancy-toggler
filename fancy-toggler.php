@@ -4,7 +4,7 @@ Plugin Name: Fancy Toggler
 Plugin URI: #
 Description: Fancy Toggler plugin is a wordpress plugin designed to create interactive portfolio functionality with category filteration in to your wordpress website.
 Version: 1.0
-Author: Lakshith212
+Author: Lakshitha212
 Author URI: https://github.com/lakshitha212
 */
 define('TOGGLER_DIR', dirname(__FILE__));
